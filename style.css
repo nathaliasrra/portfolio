@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
     margin: 0;
@@ -34,5 +34,6 @@ body {
 }
 
 .apresentacao__conteudo__paragrafo {
+    font-family: "Montserrat", "sans-serif";
     font-size: 24px;
 }
